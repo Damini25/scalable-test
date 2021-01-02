@@ -1,0 +1,468 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render <Table> 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <table>
+        <thead>
+          <tr>
+            <th>
+              month
+            </th>
+            <th>
+              good
+            </th>
+            <th>
+              median
+            </th>
+            <th>
+              bad
+            </th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              0
+            </td>
+            <td>
+              1000.00
+            </td>
+            <td>
+              1000.00
+            </td>
+            <td>
+              1000.00
+            </td>
+          </tr>
+          <tr>
+            <td>
+              1
+            </td>
+            <td>
+              1112.27
+            </td>
+            <td>
+              1100.97
+            </td>
+            <td>
+              1089.78
+            </td>
+          </tr>
+          <tr>
+            <td>
+              2
+            </td>
+            <td>
+              1219.51
+            </td>
+            <td>
+              1202.03
+            </td>
+            <td>
+              1184.80
+            </td>
+          </tr>
+          <tr>
+            <td>
+              3
+            </td>
+            <td>
+              1326.44
+            </td>
+            <td>
+              1303.19
+            </td>
+            <td>
+              1280.35
+            </td>
+          </tr>
+          <tr>
+            <td>
+              4
+            </td>
+            <td>
+              1433.43
+            </td>
+            <td>
+              1404.45
+            </td>
+            <td>
+              1376.07
+            </td>
+          </tr>
+          <tr>
+            <td>
+              5
+            </td>
+            <td>
+              1540.59
+            </td>
+            <td>
+              1505.81
+            </td>
+            <td>
+              1471.83
+            </td>
+          </tr>
+          <tr>
+            <td>
+              6
+            </td>
+            <td>
+              1647.97
+            </td>
+            <td>
+              1607.27
+            </td>
+            <td>
+              1567.57
+            </td>
+          </tr>
+          <tr>
+            <td>
+              7
+            </td>
+            <td>
+              1755.61
+            </td>
+            <td>
+              1708.82
+            </td>
+            <td>
+              1663.28
+            </td>
+          </tr>
+          <tr>
+            <td>
+              8
+            </td>
+            <td>
+              1863.52
+            </td>
+            <td>
+              1810.48
+            </td>
+            <td>
+              1758.94
+            </td>
+          </tr>
+          <tr>
+            <td>
+              9
+            </td>
+            <td>
+              1971.70
+            </td>
+            <td>
+              1912.23
+            </td>
+            <td>
+              1854.55
+            </td>
+          </tr>
+          <tr>
+            <td>
+              10
+            </td>
+            <td>
+              2080.16
+            </td>
+            <td>
+              2014.08
+            </td>
+            <td>
+              1950.09
+            </td>
+          </tr>
+          <tr>
+            <td>
+              11
+            </td>
+            <td>
+              2188.90
+            </td>
+            <td>
+              2116.02
+            </td>
+            <td>
+              2045.57
+            </td>
+          </tr>
+          <tr>
+            <td>
+              12
+            </td>
+            <td>
+              2297.92
+            </td>
+            <td>
+              2218.07
+            </td>
+            <td>
+              2140.99
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </body>,
+  "container": <div>
+    <table>
+      <thead>
+        <tr>
+          <th>
+            month
+          </th>
+          <th>
+            good
+          </th>
+          <th>
+            median
+          </th>
+          <th>
+            bad
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            0
+          </td>
+          <td>
+            1000.00
+          </td>
+          <td>
+            1000.00
+          </td>
+          <td>
+            1000.00
+          </td>
+        </tr>
+        <tr>
+          <td>
+            1
+          </td>
+          <td>
+            1112.27
+          </td>
+          <td>
+            1100.97
+          </td>
+          <td>
+            1089.78
+          </td>
+        </tr>
+        <tr>
+          <td>
+            2
+          </td>
+          <td>
+            1219.51
+          </td>
+          <td>
+            1202.03
+          </td>
+          <td>
+            1184.80
+          </td>
+        </tr>
+        <tr>
+          <td>
+            3
+          </td>
+          <td>
+            1326.44
+          </td>
+          <td>
+            1303.19
+          </td>
+          <td>
+            1280.35
+          </td>
+        </tr>
+        <tr>
+          <td>
+            4
+          </td>
+          <td>
+            1433.43
+          </td>
+          <td>
+            1404.45
+          </td>
+          <td>
+            1376.07
+          </td>
+        </tr>
+        <tr>
+          <td>
+            5
+          </td>
+          <td>
+            1540.59
+          </td>
+          <td>
+            1505.81
+          </td>
+          <td>
+            1471.83
+          </td>
+        </tr>
+        <tr>
+          <td>
+            6
+          </td>
+          <td>
+            1647.97
+          </td>
+          <td>
+            1607.27
+          </td>
+          <td>
+            1567.57
+          </td>
+        </tr>
+        <tr>
+          <td>
+            7
+          </td>
+          <td>
+            1755.61
+          </td>
+          <td>
+            1708.82
+          </td>
+          <td>
+            1663.28
+          </td>
+        </tr>
+        <tr>
+          <td>
+            8
+          </td>
+          <td>
+            1863.52
+          </td>
+          <td>
+            1810.48
+          </td>
+          <td>
+            1758.94
+          </td>
+        </tr>
+        <tr>
+          <td>
+            9
+          </td>
+          <td>
+            1971.70
+          </td>
+          <td>
+            1912.23
+          </td>
+          <td>
+            1854.55
+          </td>
+        </tr>
+        <tr>
+          <td>
+            10
+          </td>
+          <td>
+            2080.16
+          </td>
+          <td>
+            2014.08
+          </td>
+          <td>
+            1950.09
+          </td>
+        </tr>
+        <tr>
+          <td>
+            11
+          </td>
+          <td>
+            2188.90
+          </td>
+          <td>
+            2116.02
+          </td>
+          <td>
+            2045.57
+          </td>
+        </tr>
+        <tr>
+          <td>
+            12
+          </td>
+          <td>
+            2297.92
+          </td>
+          <td>
+            2218.07
+          </td>
+          <td>
+            2140.99
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
